@@ -1,0 +1,131 @@
+2024-02-23 15:17:36
+MasterCard
+1,Latte,3.50
+1,Cappuccino,4.00
+1,Espresso,2.50
+TOTAL PRICE: 10.00
+---------------------
+2024-02-23 15:28:06
+MasterCard
+1,Cappuccino,4.00)
+1,Latte,3.50
+1,Cappuccino,4.00
+TOTAL PRICE: 11.50
+---------------------
+2024-02-23 15:28:49
+Cash
+1,Cappuccino,4.00
+1,Iced Coffee,3.75
+TOTAL PRICE: 7.75
+TENDERED AMOUNT: 10.00
+CHANGE: 2.25
+---------------------
+2024-02-23 15:29:42
+Cash
+1,Latte,3.50
+1,Cappuccino,4.00
+TOTAL PRICE: 7.50
+TENDERED AMOUNT: 10.00
+CHANGE: 2.50
+---------------------
+2024-02-23 15:32:00
+Cash
+1,Iced Coffee,3.75
+1,Latte,3.50
+1,Cappuccino,4.00
+TOTAL PRICE: 11.25
+TENDERED AMOUNT: 14.00
+CHANGE: 2.75
+---------------------
+2024-02-23 15:33:18
+Cash
+1,Iced Coffee,3.75
+1,Latte,3.50
+TOTAL PRICE: 7.25
+TENDERED AMOUNT: 10.00
+CHANGE: 2.75
+---------------------
+2024-02-23 15:36:53
+Cash
+1,Latte,3.50
+1,Cappuccino,4.00
+1,Latte,3.50
+1,Cappuccino,4.00
+1,Espresso,2.50
+TOTAL PRICE: 17.50
+TENDERED AMOUNT: 20.00
+CHANGE: 2.50
+---------------------
+2024-02-23 15:40:42
+Cash
+1,Latte,3.50
+1,Cappuccino,4.00
+TOTAL PRICE: 7.50
+TENDERED AMOUNT: 10.00
+CHANGE: 2.50
+---------------------
+2024-02-23 15:41:30
+Cash
+1,Tea,2.00
+1,Cappuccino,4.00
+1,Espresso,2.50
+TOTAL PRICE: 8.50
+TENDERED AMOUNT: 16.00
+CHANGE: 7.50
+---------------------
+2024-02-23 15:42:25
+Cash
+1,Latte,3.50
+1,Cappuccino,4.00
+1,Espresso,2.50
+TOTAL PRICE: 10.00
+TENDERED AMOUNT: 11.00
+CHANGE: 1.00
+---------------------
+2024-02-23 15:44:18
+Cash
+1,Iced Coffee,3.75
+1,Latte,3.50
+TOTAL PRICE: 7.25
+TENDERED AMOUNT: 8.00
+CHANGE: 0.75
+---------------------
+2024-02-23 15:46:04
+Cash
+1,Iced Coffee,3.75
+1,Latte,3.50
+1,Cappuccino,4.00
+TOTAL PRICE: 11.25
+TENDERED AMOUNT: 13.00
+CHANGE: 1.75
+---------------------
+2024-02-23 15:47:53
+Cash
+1,Latte,3.50
+1,Espresso,2.50
+1,Flat White,3.90
+1,Latte,3.50
+TOTAL PRICE: 13.40
+TENDERED AMOUNT: 16.00
+CHANGE: 2.60
+---------------------
+2024-02-23 15:48:15
+MasterCard
+1,Flat White,3.90
+1,Latte,3.50
+TOTAL PRICE: 7.40
+---------------------
+2024-02-23 15:48:40
+MasterCard
+1,Latte,3.50
+1,Tea,2.00
+TOTAL PRICE: 5.50
+---------------------
+2024-02-23 16:00:18
+Cash
+1,Iced Coffee,3.75
+1,Latte,3.50
+TOTAL PRICE: 7.25
+TENDERED AMOUNT: 10.00
+CHANGE: 2.75
+---------------------

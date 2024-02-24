@@ -1,0 +1,12 @@
+High Priority:@critical
+    ☐ Validate users input
+    ☐ Display the receipt
+    ☐ Create special object for transactions
+
+Mid Priority:@high
+    ☐ Let user to leave a tip
+    ☐ Review static methods
+    ☐ Display shopping cart - add/remove from cart?
+
+Low Priority:@low
+    ☐ Keyboard Class?
