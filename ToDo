@@ -1,12 +1,27 @@
 High Priority:@critical
-    ☐ Validate users input
-    ☐ Display the receipt
-    ☐ Create special object for transactions
+    ✔ Validate users input @done(24-03-09 15:07)
+    ✔ Display the receipt? @done(24-03-10 16:56)
+    ✔ Create special class for transactions @done(24-02-24 14:26)
+    ✔ Bug while handling change @done(24-03-10 16:55)
+    ☐ Restructurize saving of transactions,
+    ☐ App should run unless exited -> multiple orders
 
 Mid Priority:@high
     ☐ Let user to leave a tip
-    ☐ Review static methods
+    ✔ Consider if Menu methods should really be static? @done(24-02-24 18:26)
     ☐ Display shopping cart - add/remove from cart?
+    ✔ Special class for loading items @done(24-02-24 18:21)
+    ✔ toString method for displaying receipt @done(24-03-10 19:43)
+    ✔ Handle checkout if shopping cart is empty @done(24-03-21 04:25)
 
 Low Priority:@low
-    ☐ Keyboard Class?
+    ☐ Keyboard Class??
+    ✔ ID is always 1 bug @done(24-02-24 14:26)
+    ☐ Use StringBuilder for toString methods
+    ✔ Create method for printing total price @done(24-02-24 18:03)
+    ☐ Format value of change in receipt to have only 2 decimal places
+    ✔ Prettier UI @done(24-02-24 18:40)
+    ✔ AddToCart Function constructor? @done(24-03-10 19:47)
+    ☐ Catching InputMismatch and ArrayOutOfBounds gives different output
+    ☐ Handle change bug if tendered amount has more than 2 decimals places
+    ☐ More meaningful messages for errors
